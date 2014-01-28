@@ -1,6 +1,6 @@
 /**
  * Backbone proxy for AngularJS
- * @version v1.0.0
+ * @version v1.0.1
  * @link https://github.com/sroze/angular-backbone/
  * @license MIT License, http://www.opensource.org/licenses/MIT
  */
@@ -13,7 +13,7 @@ if (typeof module !== "undefined" && typeof exports !== "undefined" && module.ex
 (function (window, angular, undefined) {
 'use strict';
 
-angular.module('angular-backbone', ['backbone', 'underscore'])
+angular.module('angular-backbone', [])
     /**
      * A backbone model extension that contains the model proxy
      * and transform sync promises.
