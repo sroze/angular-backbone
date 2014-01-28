@@ -1,0 +1,40 @@
+{
+    "name": "angular-backbone",
+    "description": "Backbone proxy for AngularJS",
+    "version": "1.0.0",
+    "homepage": "https://github.com/sroze/angular-backbone/",
+    "maintainers": [
+        {
+            "name": "Samuel ROZE",
+            "email": "samuel.roze@gmail.com",
+            "web": "https://github.com/sroze"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sroze/angular-backbone.git"
+    },
+    "bugs": {
+        "url": "https://github.com/sroze/angular-backbone/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/sroze/angular-backbone/blob/master/LICENSE"
+        }
+    ],
+    "dependencies": {},
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-concat": "~0.3.0",
+        "grunt-contrib-uglify": "~0.2.7",
+        "grunt-contrib-jshint": "~0.7.1",
+        "grunt-contrib-watch": "~0.5.3",
+        "grunt-contrib-connect": "~0.5.0",
+        "grunt-contrib-clean": "~0.5.0",
+        "grunt-conventional-changelog": "~1.0.0",
+        "load-grunt-tasks": "~0.2.0",
+        "shelljs": "~0.2.6",
+        "faithful-exec": "~0.1.0"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "angular-backbone",
+    "version": "1.0.0",
+    "description": "Backbone proxy for AngularJS",
+    "keywords": [
+        "angular",
+        "backbone"
+    ],
+    "main": "release/angular-backbone.min.js",
+    "scripts": [
+        "release/angular-backbone.min.js"
+    ],
+    "license": "MIT",
+    "repo": "sroze/angular-backbone"
+}
