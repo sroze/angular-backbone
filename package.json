@@ -1,7 +1,7 @@
 {
     "name": "angular-backbone",
     "description": "Backbone proxy for AngularJS",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "homepage": "https://github.com/sroze/angular-backbone/",
     "maintainers": [
         {
